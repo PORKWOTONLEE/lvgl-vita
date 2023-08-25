@@ -1,0 +1,6 @@
+.cache
+.clangd
+.*.swp
+build
+compile_commands.json
+

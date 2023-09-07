@@ -17,7 +17,7 @@ extern "C" {
 #define PSV_DISP_VER_RES    544
 
 /*Log*/
-#define DEBUG                (0)
+#define DEBUG                (1)
 #define DEBUG_BUFFER_SIZE    (1024)
 #define DEBUG_FILE_PATH      ("ux0:data/LVGL-Vita.txt")
 #define VITA_DEBUG(...)      vita_debug_to_local_file(__VA_ARGS__)

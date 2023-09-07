@@ -3,4 +3,7 @@
 .*.swp
 build
 compile_commands.json
-
+include
+sample/inc
+sample/src
+sample/lib

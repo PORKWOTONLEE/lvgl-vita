@@ -36,15 +36,7 @@ cmake ..
 make
 
 ```
-Build **sample**
-```shell
-git clone --recursive git@github.com:PORKWOTONLEE/lvgl-vita.git
-cd lvgl-vita && cd sample && cd build
-cmake ..
-make
-
-```
-cmake with -DUSE_SAMPLE=ON to build both of lib & sample
+cmake with -DUSE_SAMPLE=ON to build sample
 
 ## Usage
 All you need is:

@@ -14,7 +14,7 @@ extern "C" {
 /*Display*/
 #define PSV_DRAW_SINGLE_BUFFER    (1)
 #define PSV_DRAW_DOUBLE_BUFFER    (2) 
-#define PSV_DRAW_BUFFER_TYPE      PSV_DRAW_DOUBLE_BUFFER
+#define PSV_DRAW_BUFFER_TYPE      PSV_DRAW_SINGLE_BUFFER
 #define FULL_FRESH                (0) 
 
 /*Display*/
